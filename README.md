@@ -5,7 +5,7 @@ This repository contains a Google Colab notebook for analyzing and visualizing g
 
 ##Project Description
 
-This project aims to perform an exploratory data analysis on a COVID-19 dataset to understand trends in cases and deaths over time and to visualize these patterns. The analysis specifically highlights data for Kenya, the United States, and India.
+      This project aims to perform an exploratory data analysis on a COVID-19 dataset to understand trends in cases and deaths over time and to visualize these patterns. The analysis specifically highlights data for Kenya, the United States, and India.
 
 ##Objectives
 
